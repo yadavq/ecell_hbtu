@@ -1,0 +1,56 @@
+#up{
+	background-image: url("images/upcoming.jpeg");
+	background-size: cover;
+	padding: 200px;
+	padding-left: 500px;
+	font-size: 3em;
+	color: white;
+	background-attachment: fixed;
+	z-index: -1;
+	border-radius: 15px;
+}
+#nav{
+	margin-left: 100px;
+	width: 1100px;
+	margin-bottom: 3em;
+	border-radius: 15px;
+}
+h3{
+		font-size: 2em;
+		padding-bottom: 4px;
+		color: rgb(22,53,38);
+		margin-top: 2em;
+	}
+.foot{
+	background-color: black;
+	color: white;
+	width: 1350px;
+	height: 50px;
+	font-family: 'Times New Roman';
+	padding-left: 600px;
+	padding-top: 4px;
+}
+.image{
+	width:50px;
+	height:50px;
+}
+.image1{
+	width:40px;
+	height:30px;
+	padding-right: 10px;
+}
+.image2{
+	width:40px;
+	height:40px;
+}
+.footer{
+	margin-left: 100px;
+	margin-top: 3em;
+	color: green;
+}
+.connect{
+	padding-left: 10px;
+}
+.ipsum{
+	font-family: 'Bree Serif', serif;
+}
